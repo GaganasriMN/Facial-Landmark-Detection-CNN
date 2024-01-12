@@ -12,8 +12,3 @@ The dataset used for training can be found in the '[(https://www.kaggle.com/data
 
 The CNN model architecture is defined in the `model.py` file. It consists of several convolutional layers followed by max-pooling and fully connected layers.
 
-## Training
-
-The model is trained using the training dataset, and the training process is logged in the `training_history.log` file. The best model is saved in `checkpoint.hdf5`.
-
-```bash
