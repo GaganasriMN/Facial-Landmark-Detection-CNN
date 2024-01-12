@@ -6,7 +6,7 @@ This repository contains code for facial landmark detection using Convolutional 
 
 ## Dataset
 
-The dataset used for training can be found in the `training.csv` file. It contains facial keypoint coordinates and image pixel values.
+The dataset used for training can be found in the '[(https://www.kaggle.com/datasets/nagasai524/facial-keypoint-detection)]' file. It contains facial keypoint coordinates and image pixel values.
 
 ## Model Architecture
 
